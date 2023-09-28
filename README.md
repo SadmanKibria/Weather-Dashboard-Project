@@ -7,8 +7,10 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
+- [Obtaining an API Key](#obtaining-an-api-key)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -81,6 +83,18 @@ Using the Weather Dashboard is straightforward and user-friendly:
 
 By following these steps, you can make the most of the Weather Dashboard and stay informed about current and upcoming weather conditions.
 
+## Obtaining an API Key
+
+The Weather Dashboard relies on the OpenWeatherMap API to fetch weather data. To use this API for your own projects or to replicate this Weather Dashboard, you will need to obtain an API key from OpenWeatherMap.
+
+Follow these steps to obtain your API key:
+1. Visit the OpenWeatherMap API website.
+2. Sign up for a free or paid account with OpenWeatherMap.
+3. Once logged in, navigate to the API Keys section and create a new API key.
+4. Copy your API key.
+5. In the Weather Dashboard project, replace "YOUR_API_KEY" in the JavaScript code with your actual API key.
+6. With your own API key, you can freely use the OpenWeatherMap API to access weather data for your projects.
+
 ## Contributing
 
 Contributions to this project like any other of my projects are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request on the GitHub repository. Or email me privately and I'll respond to it.
@@ -90,8 +104,6 @@ Contributions to this project like any other of my projects are welcome! If you 
 This project is open-source and available under the [MIT License](LICENSE). 
 
 Feel free to explore, use, and contribute to the Weather Dashboard. We hope it enhances your understanding of weather conditions and provides an enjoyable user experience.
-
-## Acknowledgments
 
 ## Acknowledgments
 
